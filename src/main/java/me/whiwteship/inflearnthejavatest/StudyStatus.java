@@ -1,2 +1,5 @@
-package me.whiwteship.inflearnthejavatest;public enum StudyStatus {
+package me.whiwteship.inflearnthejavatest;
+
+public enum StudyStatus {
+    DRAFT, STARTED, ENDED
 }
